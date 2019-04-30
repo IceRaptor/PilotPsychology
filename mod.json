@@ -1,0 +1,14 @@
+{
+    "Name": "PilotPsychology",
+    "Enabled": true,
+    "Version": "0.1.0",
+    "Description": "Makes pilot behavior more vibrant and immersive.",
+    "Author": "IceRaptor",
+    "Website": "https://github.com/IceRaptor/PilotPsychology",
+    "Contact": "",
+    "DLL": "PilotPsychology.dll",
+    "DependsOn" : [ ],
+    "Settings": {
+        "Debug" : false,
+    }
+}
